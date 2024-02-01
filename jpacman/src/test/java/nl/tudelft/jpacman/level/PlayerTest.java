@@ -1,6 +1,5 @@
 package nl.tudelft.jpacman.level;
 
-import nl.tudelft.jpacman.board.Direction;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
